@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="JSPFAll2022Day7REST:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>JSPFAll2022Day7REST</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="JSPFAll2022Day7REST-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="JSPFAll2022Day7REST:war exploded" />
+    </root>
+  </artifact>
+</component>
